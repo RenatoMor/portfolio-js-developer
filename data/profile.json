@@ -22,7 +22,8 @@
       },
       {
         "name": "C#",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png",
+        "Info": "Conhecimento intermediário"
       },
       {
         "name": "Java",

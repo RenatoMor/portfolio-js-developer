@@ -12,9 +12,7 @@ a {
     text-decoration: none;
 }
 
-section {
-    margin: 1rem;
-}
+
 
 
 figure .logo-dio {
@@ -343,6 +341,7 @@ figure .logo-dio {
     align-items: center;
     flex-wrap: wrap;
     list-style: none;
+    gap: 3.5rem;
 }
 
 .skills .tools ul li img {
