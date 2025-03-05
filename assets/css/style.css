@@ -91,7 +91,6 @@ figure .logo-dio {
     justify-content: center; 
     display: flex;
     flex-direction: column;
-    /* border: 1px solid rgb(99, 11, 87); */
     border-radius: 1rem;
     transition: 0.25s;
     margin: 2rem auto;   
@@ -108,11 +107,11 @@ figure .logo-dio {
     
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    font-family: 'framcois one', sans-serif;
+    /* font-family: 'framcois one', sans-serif;
     font-size: 1.5rem;
-    font-weight: 700;
+    font-weight: 700; */
     padding: 1rem 2rem;
     background: linear-gradient(60deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), rgba(99, 11, 87, 0.502));
     color: #fff;
@@ -120,8 +119,8 @@ figure .logo-dio {
     border-radius: 1rem;
 }
 
-.acordeon .trigger h2 {
-    font-size: 1.5rem;
+.acordeon .trigger h3 {
+    font-size: 1rem;
     text-align: start;
 }
 
@@ -341,14 +340,13 @@ figure .logo-dio {
     align-items: center;
     flex-wrap: wrap;
     list-style: none;
-    gap: 3.5rem;
+    /* gap: 5rem; */
 }
 
 .skills .tools ul li img {
     max-width: 50px;
     max-height: 50px;
-    margin: 0.5rem;
-    
+    margin: 1.25rem;
 }
 
 .skills .personal ul {
