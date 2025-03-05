@@ -100,15 +100,15 @@ figure .logo-dio {
 
 .acordeon.open,
 .acordeon:hover {
-    background-color: rgba(85, 86, 158, 0.6);
-    border-color: rgba(85, 86, 158, 0.5);
+    background-color: rgba(85, 86, 158, 0.2);
+    border-color: rgba(85, 86, 158, 0.3);
 }
 
 .acordeon .trigger {
     
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     font-family: 'framcois one', sans-serif;
     font-size: 1.5rem;
@@ -117,12 +117,12 @@ figure .logo-dio {
     background: linear-gradient(60deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), rgba(99, 11, 87, 0.502));
     color: #fff;
     border: none;
-    border-radius: 1rem 1rem 0 0;
+    border-radius: 1rem;
 }
 
 .acordeon .trigger h2 {
     font-size: 1.5rem;
-    text-align: start;    
+    text-align: start;
 }
 
 .acordeon .trigger:hover {
