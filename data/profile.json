@@ -9,48 +9,47 @@
     "hardSkills": [
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/data/img/python.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/python.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+        "logo": "https://github.com/RenatoMor/portfolio-js-developer/blob/main/assets/img/tools/javascript.png"
       },
       {
         "name": "C#",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png",
-        "Info": "Conhecimento intermediário"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/csharp.png"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/java.png"
       },
       {
         "name": "Html",
-        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/data/img/html.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/data/img/css.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/css.png"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://github.com/RenatoMor/portfolio-js-developer/blob/main/assets/img/tools/react.png"
       },
       {
         "name": "MySql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/mysql.png"
       },  
       {
         "name": "PostgreSql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/postgresql.png"
       }, 
       {
         "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/mongodb.png"
       },     
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/git.png"
       },            
       {
         "name": "GitHub",
