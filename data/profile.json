@@ -96,8 +96,7 @@
     },
     {
       "name": "Pokedex",
-      "url": "https://github.com/RenatoMor/pokedex-myStyle",
-      "repository_github": "https://github.com/RenatoMor/pokedex-myStyle.git",
+      "url": "https://pokedex-my-style.vercel.app/",
       "github": true
     }
   ],
