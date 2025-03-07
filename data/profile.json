@@ -13,7 +13,7 @@
       },
       {
         "name": "JavaScript",
-        "logo": "https://github.com/RenatoMor/portfolio-js-developer/blob/main/assets/img/tools/javascrip.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/javascript.png"
       },
       {
         "name": "C#",
@@ -33,7 +33,7 @@
       },
       {
         "name": "React",
-        "logo": "https://github.com/RenatoMor/portfolio-js-developer/blob/main/assets/img/tools/react.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/react.png"
       },
       {
         "name": "MySql",
