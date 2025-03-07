@@ -13,12 +13,7 @@
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/data/img/javascript.png"
-      },
-      {
-        "name": "NodeJs",
-        "logo": "https://github.com/RenatoMor/portfolio-js-developer/blob/main/assets/img/icon/github.png?raw=true"
-
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "C#",
@@ -30,12 +25,12 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/data/img/css.png"
-      },
-      {
         "name": "Html",
         "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/data/img/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/data/img/css.png"
       },
       {
         "name": "React",
@@ -44,7 +39,15 @@
       {
         "name": "MySql",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
-      },      
+      },  
+      {
+        "name": "PostgreSql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+      }, 
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+      },     
       {
         "name": "Git",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
