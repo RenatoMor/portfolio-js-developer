@@ -64,7 +64,7 @@
     ]
   },
   "languages": [
-    "Português BR",
+    "Português BR (Nativo)",
     "Inglês (intermediário)",
     "Espanhol (iniciante)"
   ],
@@ -73,21 +73,31 @@
     {
       "name": "Multiverso Spider Man",
       "url": "https://multiverso-spider-man-eta.vercel.app/",
+      "repository_github": "https://github.com/RenatoMor/multiverso-spider-man.git",
       "github": true
     },
     {
       "name": "Landing Page Mundo Invertido",
       "url": "https://landing-page-mundo-invertido-brown.vercel.app/",
+      "repository_github": "https://github.com/RenatoMor/landing-page-mundo-invertido.git",
       "github": true
     },
     {
       "name": "Jogo de Cartas Yo-Gi-Oh",
       "url": "https://jogo-de-cartas-yo-gi-oh.vercel.app/",
+      "repository_github": "https://github.com/RenatoMor/landing-page-mundo-invertido.git",
       "github": true
     },
     {
       "name": "Virtual Piano Simulator",
       "url": "https://virtual-piano-simulator-gamma.vercel.app/",
+      "repository_github": "https://github.com/RenatoMor/landing-page-mundo-invertido.git",
+      "github": true
+    },
+    {
+      "name": "Pokedex",
+      "url": "https://virtual-piano-simulator-gamma.vercel.app/",
+      "repository_github": "https://github.com/RenatoMor/pokedex-myStyle.git",
       "github": true
     }
   ],
