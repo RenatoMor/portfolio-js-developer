@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/data/img/python3d.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/data/img/python.png"
       },
       {
         "name": "JavaScript",
@@ -31,7 +31,7 @@
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/data/img/css.png"
       },
       {
         "name": "Html",
