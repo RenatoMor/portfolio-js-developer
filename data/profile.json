@@ -9,52 +9,52 @@
     "hardSkills": [
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/python.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/python.png", "alt": "Python"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/javascript.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/javascript.png", "alt": "JavaScript"
       },
       {
         "name": "C#",
-        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/csharp.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/csharp.png", "alt": "C#"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/java.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/java.png", "alt": "Java"
       },
       {
         "name": "Html",
-        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/html.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/html.png", "alt": "HTML"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/css.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/css.png", "alt": "CSS"
       },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/react.png"
-      },
-      {
-        "name": "MySql",
-        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/mysql.png"
-      },  
-      {
-        "name": "PostgreSql",
-        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/postgresql.png"
-      }, 
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/mongodb.png"
-      },     
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/git.png"
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/git.png", "alt": "Git"
       },            
       {
         "name": "GitHub",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
-      }
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png", "alt": "GitHub"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/react.png", "alt": "React JS"
+      },
+      {
+        "name": "MySql",
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/mysql.png", "alt": "MySQL"
+      },  
+      {
+        "name": "PostgreSql",
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/postgresql.png", "alt": "PostgreSQL"
+      }, 
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/RenatoMor/portfolio-js-developer/refs/heads/main/assets/img/tools/mongodb.png", "alt": "MongoDB"
+      }     
       
     ],
     "softSkills": [

@@ -44,7 +44,9 @@ a {
 }
 
 .header .title {    
-    font-family: 'Hubot Sans', sans-serif;
+    font-family: 'Poiret One', cursive;
+    font-size: 1.5rem;
+    font-weight: 600;
     text-align: center;
 }
 
@@ -62,22 +64,22 @@ a {
     flex-direction: row;
     align-items: center;
     margin: 0.5rem;
-    font-size: 1.125rem;
+    font-size: 1rem;
 }
 
 .information p::before {
     content: '';
     display: inline-block;
-    width: 1rem;
-    height: 1rem;
+    width: 2rem;
+    height: 2rem;
     background-size: contain;
     background-repeat: no-repeat;
-    margin-right: 0.5rem;
+    margin-right: 0.5rem;    
 }
 
 .information .job::before {
     background-image: url("/assets/img/icon/job.png");
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;    
 }
 
 .information .location::before {
@@ -95,6 +97,14 @@ a {
     background-repeat: no-repeat;
 }
 
+.social {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    margin: 0.5rem;
+    width: 0.5rem;
+}
+
 /*\------------------------------acordeon--------------------------------*/
 
 .acordeon {
@@ -106,7 +116,7 @@ a {
     border-radius: 1rem;
     transition: 0.25s;
     margin: 2rem auto;   
-    box-shadow: rgba(85, 86, 158, 0.4) 5px 5px, rgba(85, 86, 158, 0.3) 10px 10px, rgb(85, 86, 158, 0.2) 15px 15px, rgba(85, 86, 158, 0.1) 20px 20px, rgba(85, 86, 158, 0.05) 25px 25px; 
+    box-shadow: rgba(85, 86, 158, 0.9) 5px 5px, rgba(85, 86, 158, 0.3) 10px 10px, rgb(85, 86, 158, 0.2) 15px 15px, rgba(85, 86, 158, 0.1) 20px 20px, rgba(85, 86, 158, 0.05) 25px 25px; 
 }
 
 .acordeon.open,
@@ -121,9 +131,6 @@ a {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    /* font-family: 'framcois one', sans-serif;
-    font-size: 1.5rem;
-    font-weight: 700; */
     padding: 1rem 2rem;
     background: linear-gradient(60deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), rgba(99, 11, 87, 0.502));
     color: #fff;
@@ -131,8 +138,8 @@ a {
     border-radius: 1rem;
 }
 
-.acordeon .trigger h3 {
-    font-size: 1.25rem;
+.acordeon .trigger h2 {
+    font-size: 1.5rem;
     text-align: start;
     font-family: 'Parkinsans', sans-serif;
     /* font-weight: 700; */
@@ -167,9 +174,11 @@ a {
 
 .acordeon.open .content {
     display: flex;
-    padding: 0 2rem 2rem 2rem;
+    padding: 2rem;
     height: auto;
     opacity: 1;
+    border: 0.3rem solid rgba(99, 11, 87, 0.3);
+    border-radius: 1rem;
 }
 
 /*\--------------------------skills----------------------------*/
@@ -186,13 +195,14 @@ a {
     align-items: center;
     flex-wrap: wrap;
     list-style: none;
-    /* gap: 5rem; */
+    gap: 1em;
+
 }
 
 .skills .tools ul li img {
     max-width: 50px;
     max-height: 50px;
-    margin: 1.25rem;
+    margin: 1.25rem 0 1.25rem 0;
 }
 
 .skills .personal ul {
@@ -205,8 +215,17 @@ a {
 }
 
 .skills .personal ul li {
+    display: flex;
+    flex-direction: column;
     margin-left: 2rem;
     padding: 0.5rem;
+}
+
+.tools {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+    border-right: 1px solid #f077e080; 
 }
 
 /*\------------------------language--------------------------*/
@@ -412,7 +431,9 @@ main {
     .header .title {
         grid-area: title;
         text-align: start;
-        max-width: 210px;
+        max-width: 325px;
+        font-family: 'Poiret One', cursive;        
+        padding-top: 4rem;
     }
     
     .header .information {
@@ -428,7 +449,7 @@ main {
     
     .main::before,
     .main::after {
-        width: 70vw;
+    width: 70vw;
         
     }
 
