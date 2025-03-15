@@ -74,8 +74,9 @@
   "portfolio": [
     {
       "name": "Multiverso Spider Man",
-      "url": "https://multiverso-spider-man-eta.vercel.app/",
       "repository_github": "https://github.com/RenatoMor/multiverso-spider-man.git",
+      "url": "https://multiverso-spider-man-eta.vercel.app/",
+      "certificado": "https://certificates.digitalinnovation.one/3D3D3D3D",
       "github": true
     },
     {
