@@ -185,7 +185,6 @@ a {
 
 .skills {
     display: flex;
-    flex-direction: column;
 }
 
 .skills .tools ul {
@@ -195,20 +194,19 @@ a {
     align-items: center;
     flex-wrap: wrap;
     list-style: none;
-    gap: 1em;
 
 }
 
 .skills .tools ul li img {
     max-width: 50px;
-    max-height: 50px;
-    margin: 1.25rem 0 1.25rem 0;
+    max-height: 40px;
+    margin: 1.25rem 1rem;
 }
 
 .skills .personal ul {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
+    position: relative;
+    padding: auto;
+    margin: 1rem auto;
     align-items: center;
     flex-wrap: wrap;
     
@@ -216,7 +214,7 @@ a {
 
 .skills .personal ul li {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     margin-left: 2rem;
     padding: 0.5rem;
 }
